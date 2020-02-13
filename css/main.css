@@ -2,3 +2,17 @@ body {
     background-color: coral;
     font-size: 1.5em; /* makes font size 1.5 times bigger than the default */
 }
+
+p {
+    /* change font size here */
+}
+
+table {
+   width: 50%;
+   margin: 0 auto;
+   text-align: center;
+}
+
+td {
+    border: 1px solid black;
+}
